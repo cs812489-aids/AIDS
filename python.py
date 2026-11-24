@@ -359,7 +359,8 @@ result = my_function(*numbers) # Same as: my_function(1, 2, 3)
 print(result)
 
 
-# Function with Unpacking Dictionaryents
+
+# Function with Unpacking Dictionary.
 
 
 def my_function(fname, lname):
